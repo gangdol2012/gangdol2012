@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gangdol2012
+- 🌱 I’m currently learning Unity Engine
+- 🌱 I'm not experienced developer, so please understand if I'm not good at code...
